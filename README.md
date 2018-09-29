@@ -1,4 +1,5 @@
-# MachineLearningP3
+# Machine Learning - Python 3
+
 Python 3 Machine Learning Libraries for Stanford MOOC on Machine Learning
 https://classroom.udacity.com/courses/ud120/lessons/2410328539/concepts/24185385370923
 
