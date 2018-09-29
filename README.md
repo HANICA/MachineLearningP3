@@ -12,5 +12,5 @@ Not using Python 3 without setting up virtual environments causes other issues (
 I will also add implementations as I go for reference material, please try yourself first as that is they way we will learn best. 
 Note: These example implementations will have jk just before the .py extension in their filenames.
 
-Johan Korten
+Johan Korten /
 johan.korten@han.nl
